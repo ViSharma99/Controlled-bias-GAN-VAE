@@ -1,4 +1,4 @@
-# GAN-MNIST
+# Controlled Bias Generation GAN- VAE-MNIST
 Application of Generative adversarial Networks on MNIST data. Introduced a Controlled data class Imbalance/Bias and Studied the Generated Images.
 
 Developed an innovative approach for incorporating controlled bias into class representation by designing a custom
